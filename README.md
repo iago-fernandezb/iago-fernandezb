@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, i am <a href="https://aristi.dev">Iago Fernández</a> 👋</h1>
+</div>
 
-<!--
-**iago-fernandezb/iago-fernandezb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- ⭐ Computer Engineering ⭐ 
+- ✏️ Mention in Software Engineering
+- 📗 Currently studying 3rd year at the University of Coruña
+- 🧑‍🏫 Always searching for new projects, ideas and posibilitys.
+<br>
+                                                                             
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iago-fernandezb&show_icons=true&theme=algolia&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-fernandezb&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
