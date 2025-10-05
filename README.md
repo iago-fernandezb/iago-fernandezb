@@ -2,7 +2,7 @@
 <h1 align="center">Hi, i am <a href="https://iago-fernandezb">Iago Fernández</a> 👋</h1>
 </div>
 
-## Sobre mi
+## About me
 
 - ⭐ Computer Engineering ⭐ 
 - ✏️ Mention in Software Engineering
